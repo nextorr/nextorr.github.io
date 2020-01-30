@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-01-30T03:08:37Z",
+  "id": "your-first-pwapp",
+  "duration": 16,
+  "title": "Generalidades | Clases de anomalías",
+  "authors": "Movi",
+  "summary": "CONTROL Y REGULARIZACIÓN, GAS NATURAL FENOSA CALL CENTER - GAS",
+  "source": "1NdPhBrjagK363Aguu9s3g3YyO2T6Q39gCeAwpB3870M",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "gas atc"
+  ],
+  "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
+  "ga": "UA-52746336-1",
+  "url": "your-first-pwapp"
+}
