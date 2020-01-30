@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-01-30T02:37:35Z",
+  "id": "your-first-pwapp",
+  "duration": 0,
+  "title": "Generalidades | Definiciones",
+  "authors": "Movi",
+  "summary": "CONTROL Y REGULARIZACIÓN, GAS NATURAL FENOSA CALL CENTER - GAS",
+  "source": "1POJG0BkxnvgO07YCrnRCuWeC9FAkSHj6mInwDTQj4lk",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "gas atc"
+  ],
+  "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
+  "ga": "UA-52746336-1",
+  "url": "your-first-pwapp"
+}
