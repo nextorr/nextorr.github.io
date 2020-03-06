@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-03-04T01:25:57Z",
+  "id": "your-first-pwapp",
+  "duration": 0,
+  "title": "Procesos y sistemas de trabajo gas | SolutionBook",
+  "authors": "Movi",
+  "summary": "CONTROL Y REGULARIZACIÓN, GAS NATURAL FENOSA CALL CENTER - GAS",
+  "source": "1t1ZzqVOqTJfWTveM42EhtXyCbtXYxmqq9P6gZ1rKIic",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "gas atc"
+  ],
+  "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
+  "ga": "UA-52746336-1",
+  "url": "your-first-pwapp"
+}
